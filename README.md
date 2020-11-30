@@ -65,8 +65,3 @@
 
 可在这些不同风格的模板基础上快速开始一个可视化大屏项目
 
--------------------------------------------------
-
-演示地址：[https://yyhsong.github.io/iDataV/](https://yyhsong.github.io/iDataV/)
-
-项目简介：[https://blog.csdn.net/hwhsong/article/details/80805511](https://blog.csdn.net/hwhsong/article/details/80805511)
